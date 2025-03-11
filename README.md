@@ -1,5 +1,5 @@
 
-# Image Classifier README
+# Image Classification
 
 This repository contains two image classification models: one based on a **Convolutional Neural Network (CNN)** and the other based on a **Vision Transformer (ViT)**. Both models are designed to classify images into two categories (e.g., Cats and Dogs) using PyTorch.
 
