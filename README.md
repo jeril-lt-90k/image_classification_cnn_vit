@@ -55,7 +55,7 @@ The ViT model leverages a Vision Transformer architecture, a cutting-edge model 
 ---
 
 ## Training and Validation Data Folder Structure
-
+```
 images/
 ├── train/
 │   ├── Cat/
@@ -64,7 +64,7 @@ images/
 │   ├── Cat/
 │   └── Dog/
 ├── [cat_test.jpg | dog_test.jpg]
-
+```
 
 ## Training
 
